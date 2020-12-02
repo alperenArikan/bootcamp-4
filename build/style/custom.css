@@ -16,6 +16,8 @@
   background-color: #F1C40F; }
 
 nav {
+  position:relative;
+  z-index: 5;
   height: 15vh;
   max-height: 150px; }
   @media (max-width: 767px) {
