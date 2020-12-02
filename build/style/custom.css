@@ -131,7 +131,7 @@ header {
         opacity: .1; }
         @media (max-width: 600px) {
           #about .about-container .mask p {
-            font-size: 280%; } }
+            font-size: 260%; } }
     #about .about-container h2 {
       font-weight: 600; }
   #about .row {
